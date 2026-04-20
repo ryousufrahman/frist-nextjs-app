@@ -1,4 +1,8 @@
 import UserCard from "../components/UserCard";
+export const metadata = {
+  title: 'All user',
+  description: '...',
+}
 
 
 const UserPage = async () => {

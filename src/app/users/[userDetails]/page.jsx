@@ -1,4 +1,9 @@
 import React from 'react';
+ 
+ export const metadata = {
+  title: 'User Details',
+  description: '...',
+}
 
 const UserDetailsPage = async({params}) => {
     const {userDetails} =await params
