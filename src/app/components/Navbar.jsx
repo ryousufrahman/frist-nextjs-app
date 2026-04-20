@@ -9,6 +9,8 @@ const Navbar = () => {
     
      <li><Link href={'/service/serviceForCustomer'} >serviceForCustomer</Link></li>
     
+     <li><Link href={'/blog'} >blogs</Link></li>
+    
     
     
     </>
